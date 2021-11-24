@@ -1,0 +1,174 @@
+#header1 {
+    position: absolute;
+    color: rgba(40, 16, 196, 0.966);
+    font-size: 30px;
+    /* border: 3px solid #ad2134; */
+}
+
+#video1 {
+    position: absolute;
+    left: 10px;
+    width: 320px;
+    height: 200px;
+    /* border: 3px solid #ad2134; */
+}
+
+.button_first_video {
+    position: absolute;
+    top: 250px;
+    /* border: 3px solid #fffb11; */
+}
+
+button:active {
+    background-color: red;
+}
+
+.FisrtChat {
+    position: absolute;
+    text-align: center;
+    top: 340px;
+    width: 600px;
+    height: 200px;
+    /* border: 3px solid #ad8821; */
+}
+
+.text_1 {
+    position: absolute;
+    text-align: center;
+    top: 350px;
+    left: 700px;
+    width: 500px;
+    height: 200px;
+    /* border: 3px solid #7a21ad; */
+}
+
+#header2 {
+    position: absolute;
+    top: 617px;
+    color: rgba(40, 16, 196, 0.966);
+    font-size: 30px;
+}
+
+#video2 {
+    position: absolute;
+    left: 10px;
+    top: 615px;
+    width: 320px;
+    height: 200px;
+    /* border: 3px solid #ad2134; */
+}
+
+.button_secound_video {
+    position: absolute;
+    top: 820px;
+    /* border: 3px solid #fffb11; */
+}
+
+.SecoundChat {
+    position: absolute;
+    text-align: center;
+    top: 900px;
+    width: 600px;
+    height: 200px;
+    /* border: 3px solid #ad8821; */
+}
+
+.text_2 {
+    position: absolute;
+    text-align: center;
+    top: 1000px;
+    left: 700px;
+    width: 500px;
+    height: 200px;
+    /* border: 3px solid #7a21ad; */
+}
+
+#header3 {
+    position: absolute;
+    top: 1200px;
+    color: rgba(40, 16, 196, 0.966);
+    font-size: 30px;
+}
+
+#video3 {
+    position: absolute;
+    left: 10px;
+    top: 1200px;
+    width: 320px;
+    height: 200px;
+    /* border: 3px solid #ad2134; */
+}
+
+.button_third_video {
+    position: absolute;
+    top: 1420px;
+    /* border: 3px solid #fffb11; */
+}
+
+.ThirdChat {
+    position: absolute;
+    text-align: center;
+    top: 1500px;
+    width: 600px;
+    height: 200px;
+    /* border: 3px solid #ad8821; */
+}
+
+.text_3 {
+    position: absolute;
+    text-align: center;
+    top: 1520px;
+    left: 700px;
+    width: 500px;
+    height: 200px;
+    /* border: 3px solid #7a21ad; */
+}
+
+#header4 {
+    position: absolute;
+    top: 1800px;
+    color: rgba(40, 16, 196, 0.966);
+    font-size: 30px;
+}
+
+#video4 {
+    position: absolute;
+    left: 10px;
+    top: 1820px;
+    width: 320px;
+    height: 200px;
+    /* border: 3px solid #ad2134; */
+}
+
+.button_fourth_video {
+    position: absolute;
+    top: 2050px;
+    /* border: 3px solid #fffb11; */
+}
+
+.FourthChat {
+    position: absolute;
+    text-align: center;
+    top: 2100px;
+    width: 600px;
+    height: 200px;
+    /* border: 3px solid #ad8821; */
+}
+
+.text_4 {
+    position: absolute;
+    text-align: center;
+    top: 2100px;
+    left: 700px;
+    width: 500px;
+    height: 200px;
+    /* border: 3px solid #7a21ad; */
+}
+
+#End {
+    position: absolute;
+    top: 2400px;
+    color: rgba(40, 16, 196, 0.966);
+    font-size: 30px;
+    /* border: 3px solid #7a21ad; */
+}
